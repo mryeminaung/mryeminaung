@@ -1,7 +1,7 @@
 ### Hi `<Developers/>` 👋
 
 - 🤗 I'm Ye Min Aung
-- 🔭 I’m currently an engineering student
+- 🔭 I’m currently an engineering student at [MIIT](https://www.miit.edu.mm)
 - 🌱 I’m currently learning React to be a front-end dev
 - 🧐 I will study PHP + Laravel After React to be a full-stack dev 
 - 👀 I’m looking to collaborate with other developers
