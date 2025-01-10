@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hi < Developers />, 🤗 I'm Ye Min Aung.</h1>
 
-### 💫 About Me:
+## 💫 About Me:
 - 👨‍🎓 I’m currently an engineering student at [MIIT](https://www.miit.edu.mm)
 - 🌱 I’m learning **Laravel**
 - 💬 Ask me about **Laravel**
 - 👀 I’m looking to collaborate with other developers
 - ⚡ Fun fact **I am power ranger🤪.**
 
-### 💻 Languages and Tools:
+## 💻 Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -38,10 +38,23 @@
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/mryeminaung/mryeminaung/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/mryeminaung/mryeminaung/output/github-snake.svg" alt="Snake animation" /> -->
 
-<h3 align="left">How to reach me:</h3>
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yeminaung.ece20) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mryeminaung) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mryeminaung) [![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mryeminaung) 
+## 🤪
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mryeminaung/mryeminaung/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mryeminaung/mryeminaung/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mryeminaung/mryeminaung/output/github-snake.svg" />
+</picture>
+
+## How to reach me
+
+[![Facebook](https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge)](https://facebook.com/yeminaung.ece20) 
+[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://instagram.com/mryeminaung) 
+[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://www.discordapp.com/users/mryeminaung) 
+[![Medium](https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge)](https://medium.com/@mryeminaung) 
+[![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/mryeminaung)
+
 <!--
 **mryeminaung/mryeminaung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
