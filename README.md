@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi < Developers />, 🤗 I'm Ye Min Aung.</h1>
+<img src="profile_banner.svg" alt="GitHub Banner" width="100%" />
 
 ## 💫 About Me:
 - 👨‍🎓 I’m currently an engineering student at [MIIT](https://www.miit.edu.mm)
