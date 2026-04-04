@@ -1,6 +1,12 @@
  <!-- <img src="profile_banner.svg" alt="GitHub Banner" width="100%" /> -->
 
-## 💫 `Hi there!, My name is Ye Min Aung`
+<div align="center">
+
+## 💫 Hi there! I'm Ye Min Aung 
+
+### **`Junior Web Developer`**
+
+</div>
 
 - 👨‍🎓 I’m currently an engineering student at [MIIT](https://www.miit.edu.mm)
 - 🌱 I’m working on a project called **[SPMS](https://github.com/mryeminaung/special-project-3002)**
