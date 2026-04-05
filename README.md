@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## 💫 Hi there! I'm Ye Min Aung 
+# 💫 Hi there! I'm Ye Min Aung 
 
 ### **`Junior Web Developer`**
 
