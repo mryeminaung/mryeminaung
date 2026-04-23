@@ -9,7 +9,6 @@
 </div>
 
 - 👨‍🎓 I’m currently an engineering student at [MIIT](https://www.miit.edu.mm)
-- 🌱 I’m working on a project called **[SPMS](https://github.com/mryeminaung/special-project-3002)**
 - 💬 Ask me about **React, NextJS, Laravel, and web development**  
 - 👀 I’m looking to collaborate with other developers
 - 📧 Open to **Internship and Junior Developer roles**: Contact me at **[yeminaung.dev@gmail.com](mailto:yeminaung.dev@gmail.com)**
