@@ -1,4 +1,4 @@
- <!-- <img src="profile_banner.svg" alt="GitHub Banner" width="100%" /> -->
+<!-- <img src="profile_banner.svg" alt="GitHub Banner" width="100%" /> -->
 
 <div align="center">
 
@@ -12,6 +12,11 @@
 - 💬 Ask me about **React, NextJS, Laravel, and web development**  
 - 👀 I’m looking to collaborate with other developers
 - 📧 Open to **Internship and Junior Developer roles**: Contact me at **[yeminaung.dev@gmail.com](mailto:yeminaung.dev@gmail.com)**
+
+<!-- Profile Views -->
+<!-- <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mryeminaung&label=Profile%20Views&color=70A5FD&style=for-the-badge"/>
+</p> -->
 
 ## 💻 `Languages & Frameworks`
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -53,12 +58,49 @@
 [![X](https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/mryeminaung)
 [![Email](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:yeminaung.dev@gmail.com)
 
+## 📊 `GitHub Stats`
+
+<p align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.shion.dev/api?username=mryeminaung&show_icons=true&hide_border=true&theme=tokyonight&border_radius=15">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.shion.dev/api?username=mryeminaung&show_icons=true&hide_border=true&theme=default&border_radius=15">
+  <img height="180em" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=mryeminaung&theme=tokyonight&hide_border=true&border_radius=15">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com?user=mryeminaung&theme=default&hide_border=true&border_radius=15">
+  <img height="180em" />
+</picture>
+
+<p align="center">
+
+<!-- Contribution Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=mryeminaung&theme=tokyo-night&hide_border=true&radius=15">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=mryeminaung&theme=github-light&hide_border=true&radius=15">
+  <img width="95%">
+</picture>
+
+</p>
+
+</p>
+
 ## 🤓 `Just for Fun`
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mryeminaung/mryeminaung/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mryeminaung/mryeminaung/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/mryeminaung/mryeminaung/output/github-snake.svg" />
 </picture>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **mryeminaung/mryeminaung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
