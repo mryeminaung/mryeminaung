@@ -60,29 +60,36 @@
 
 ## 📊 `GitHub Stats`
 
-<p align="center">
+<div align="center">
+
+<table border="0">
+<tr>
+<td>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://github-readme-stats.shion.dev/api?username=mryeminaung&show_icons=true&hide_border=true&theme=tokyonight&border_radius=15">
   <source media="(prefers-color-scheme: light)"
     srcset="https://github-readme-stats.shion.dev/api?username=mryeminaung&show_icons=true&hide_border=true&theme=default&border_radius=15">
-  <img height="180em" />
+  <img height="180em">
 </picture>
+
+</td>
+
+<td>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://streak-stats.demolab.com?user=mryeminaung&theme=tokyonight&hide_border=true&border_radius=15">
   <source media="(prefers-color-scheme: light)"
     srcset="https://streak-stats.demolab.com?user=mryeminaung&theme=default&hide_border=true&border_radius=15">
-  <img height="180em" />
+  <img height="180em">
 </picture>
 
-</p>
+</td>
+</tr>
+</table>
 
-<p align="center">
-
-<!-- Contribution Graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://github-readme-activity-graph.vercel.app/graph?username=mryeminaung&theme=tokyo-night&hide_border=true&radius=15">
@@ -91,9 +98,7 @@
   <img width="95%">
 </picture>
 
-</p>
-
-</p>
+</div>
 
 ## 🤓 `Just for Fun`
 <picture>
