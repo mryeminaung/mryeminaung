@@ -78,6 +78,8 @@
   <img height="180em" />
 </picture>
 
+</p>
+
 <p align="center">
 
 <!-- Contribution Graph -->
