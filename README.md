@@ -4,7 +4,7 @@
 
 # 💫 Hi there! I'm Ye Min Aung 
 
-### **`Junior Web Developer`**
+### **`Junior Full Stack Developer`**
 
 </div>
 
