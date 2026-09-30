@@ -2,23 +2,38 @@
 
 <div align="center">
 
-# 💫 Hi there! I'm Ye Min Aung 
+# 👋 Hey there, I'm Ye Min Aung!
 
-### **`Junior Full Stack Developer`**
+### Junior Full-Stack Developer | Engineering Student at MIIT
+
+*Building modern web applications with a focus on seamless user experiences and robust backend systems.*
+
+<br />
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-yeminaung--dev.vercel.app-000000?style=for-the-badge)](https://yeminaung-dev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in/mryeminaung)
+[![Email](https://img.shields.io/badge/Email-yeminaung.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeminaung.dev@gmail.com)
 
 </div>
 
-- 👨‍🎓 I’m currently an engineering student at [MIIT](https://www.miit.edu.mm)
-- 💬 Ask me about **React, NextJS, Laravel, and web development**  
-- 👀 I’m looking to collaborate with other developers
-- 📧 Open to **Internship and Junior Developer roles**: Contact me at **[yeminaung.dev@gmail.com](mailto:yeminaung.dev@gmail.com)**
+---
+
+### About Me
+
+- 🎓 **Education:** Engineering student at **Myanmar Institute of Information Technology (MIIT)**
+- 💼 **Status:** Open to **Internship** and **Junior Developer** roles!
+- 🛠️ **Tech Focus:** Modern frontend development, full-stack web applications, and API architecture
+- 💡 **Motto:** *"Learn while you build and build while you learn."*
+- 🤝 **Collaboration:** Eager to contribute to open-source projects and team builds. Ask me about React, Next.js, and Laravel!
+
+---
 
 <!-- Profile Views -->
 <!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mryeminaung&label=Profile%20Views&color=70A5FD&style=for-the-badge"/>
 </p> -->
 
-## 💻 `Languages & Frameworks`
+### Languages & Frameworks
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -31,7 +46,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
-## 🛠 `Tools`
+### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
@@ -43,14 +58,14 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 
-## 🚀 `Deployment`
+### Deployment
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![Laravel Cloud](https://img.shields.io/badge/Laravel%20Cloud-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-## 👀 `How to reach me`
+### How to reach me
 [![Facebook](https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge)](https://facebook.com/yeminaung.ece20)
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://instagram.com/mryeminaung)
 [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://www.discordapp.com/users/mryeminaung)
@@ -58,7 +73,7 @@
 [![X](https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/mryeminaung)
 [![Email](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:yeminaung.dev@gmail.com)
 
-## 📊 `GitHub Stats`
+### GitHub Stats
 
 <div align="center">
 
@@ -100,7 +115,7 @@
 
 </div>
 
-## 🤓 `Just for Fun`
+### Just for Fun
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mryeminaung/mryeminaung/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mryeminaung/mryeminaung/output/github-snake.svg" />
