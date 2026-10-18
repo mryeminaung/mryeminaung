@@ -54,29 +54,18 @@
 
 ### GitHub Stats
 
-<div align="center">
-
 <table border="0">
 <tr>
-  
-<td>
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mryeminaung&layout=compact&hide_border=true&theme=tokyonight&border_radius=15"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mryeminaung&layout=compact&hide_border=true&theme=default&border_radius=15"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=mryeminaung&layout=compact&hide_border=true&theme=tokyonight&border_radius=15"
-      alt="Ye Min Aung's Top Languages"
-      height="180"
-    />
-  </picture>
+  <td>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.shion.dev/api?username=mryeminaung&show_icons=true&hide_border=true&theme=tokyonight&border_radius=15">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.shion.dev/api?username=mryeminaung&show_icons=true&hide_border=true&theme=default&border_radius=15">
+  <img height="180em">
+</picture>
 </td>
-  
+
 <td>
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -87,15 +76,6 @@
 </picture>
 </td>
 
-<td>
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.shion.dev/api?username=mryeminaung&show_icons=true&hide_border=true&theme=tokyonight&border_radius=15">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.shion.dev/api?username=mryeminaung&show_icons=true&hide_border=true&theme=default&border_radius=15">
-  <img height="180em">
-</picture>
-</td>
 
 </tr>
 
@@ -107,7 +87,7 @@
     srcset="https://github-readme-activity-graph.vercel.app/graph?username=mryeminaung&theme=github-light&hide_border=true&radius=15">
   <img width="95%">
 </picture> -->
-</div>
+
 
 ### Just for Fun
 <picture>
