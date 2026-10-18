@@ -5,9 +5,9 @@
 
 ---
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-yeminaung--dev.vercel.app-000000?style=for-the-badge)](https://yeminaung-dev.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in/mryeminaung)
-[![Email](https://img.shields.io/badge/Email-yeminaung.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeminaung.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-07182E?style=for-the-badge&logo=vercel&logoColor=00D4FF)](https://yeminaung-dev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-07182E?style=for-the-badge&logo=linkedin&logoColor=00D4FF)](https://www.linkedin.com/in/mryeminaung/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-07182E?style=for-the-badge&logo=gmail&logoColor=00D4FF)](mailto:yeminaung.dev@gmail.com)
 
 </div>
 
@@ -28,45 +28,29 @@
   <img src="https://komarev.com/ghpvc/?username=mryeminaung&label=Profile%20Views&color=70A5FD&style=for-the-badge"/>
 </p> -->
 
-### Languages & Frameworks
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Vue.js](https://img.shields.io/badge/vue-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
-### Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white) 
-![Prisma](https://img.shields.io/badge/prisma-%2340BFFF.svg?style=for-the-badge&logo=prisma&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+### 💻 Languages & Frameworks
 
-### Deployment
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![Laravel Cloud](https://img.shields.io/badge/Laravel%20Cloud-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,vue,react,nextjs,laravel,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
 
-### How to reach me
-[![Facebook](https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge)](https://facebook.com/yeminaung.ece20)
-[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://instagram.com/mryeminaung)
-[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://www.discordapp.com/users/mryeminaung)
-[![Medium](https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge)](https://medium.com/@mryeminaung)
-[![X](https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/mryeminaung)
-[![Email](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:yeminaung.dev@gmail.com)
+### 🛠️ Tools & Technologies
+
+[![Tools](https://skillicons.dev/icons?i=git,github,figma,postman,docker,prisma,mysql,postgres,supabase&theme=dark)](https://skillicons.dev)
+
+### 🚀 Deployment
+
+[![Deployment](https://skillicons.dev/icons?i=vercel,netlify,firebase,apache&theme=dark)](https://skillicons.dev)
+
+### 🌐 Connect With Me
+
+[![Facebook](https://img.shields.io/badge/Facebook-07182E?style=for-the-badge&logo=facebook&logoColor=00D4FF)](https://facebook.com/YOUR_USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-07182E?style=for-the-badge&logo=instagram&logoColor=00D4FF)](https://instagram.com/YOUR_USERNAME)
+[![Discord](https://img.shields.io/badge/Discord-07182E?style=for-the-badge&logo=discord&logoColor=00D4FF)](https://discord.com/users/YOUR_USER_ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-07182E?style=for-the-badge&logo=linkedin&logoColor=00D4FF)](https://linkedin.com/in/YOUR_USERNAME)
+[![X](https://img.shields.io/badge/X-07182E?style=for-the-badge&logo=x&logoColor=00D4FF)](https://x.com/YOUR_USERNAME)
+[![Gmail](https://img.shields.io/badge/Gmail-07182E?style=for-the-badge&logo=gmail&logoColor=00D4FF)](mailto:yeminaung.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-07182E?style=for-the-badge&logo=vercel&logoColor=00D4FF)](https://yeminaung-dev.vercel.app)
+
 
 ### GitHub Stats
 
