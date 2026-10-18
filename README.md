@@ -58,20 +58,26 @@
 
 <table border="0">
 <tr>
+  
 <td>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.shion.dev/api?username=mryeminaung&show_icons=true&hide_border=true&theme=tokyonight&border_radius=15">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.shion.dev/api?username=mryeminaung&show_icons=true&hide_border=true&theme=default&border_radius=15">
-  <img height="180em">
-</picture>
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mryeminaung&layout=compact&hide_border=true&theme=tokyonight&border_radius=15"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mryeminaung&layout=compact&hide_border=true&theme=default&border_radius=15"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=mryeminaung&layout=compact&hide_border=true&theme=tokyonight&border_radius=15"
+      alt="Ye Min Aung's Top Languages"
+      height="180"
+    />
+  </picture>
 </td>
-
+  
 <td>
-
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://streak-stats.demolab.com?user=mryeminaung&theme=tokyonight&hide_border=true&border_radius=15">
@@ -79,19 +85,28 @@
     srcset="https://streak-stats.demolab.com?user=mryeminaung&theme=default&hide_border=true&border_radius=15">
   <img height="180em">
 </picture>
-
 </td>
-</tr>
-</table>
 
+<td>
 <picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.shion.dev/api?username=mryeminaung&show_icons=true&hide_border=true&theme=tokyonight&border_radius=15">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.shion.dev/api?username=mryeminaung&show_icons=true&hide_border=true&theme=default&border_radius=15">
+  <img height="180em">
+</picture>
+</td>
+
+</tr>
+
+</table>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://github-readme-activity-graph.vercel.app/graph?username=mryeminaung&theme=tokyo-night&hide_border=true&radius=15">
   <source media="(prefers-color-scheme: light)"
     srcset="https://github-readme-activity-graph.vercel.app/graph?username=mryeminaung&theme=github-light&hide_border=true&radius=15">
   <img width="95%">
-</picture>
-
+</picture> -->
 </div>
 
 ### Just for Fun
@@ -100,8 +115,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mryeminaung/mryeminaung/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/mryeminaung/mryeminaung/output/github-snake.svg" />
 </picture>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **mryeminaung/mryeminaung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
