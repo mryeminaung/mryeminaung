@@ -1,14 +1,9 @@
-<!-- <img src="profile_banner.svg" alt="GitHub Banner" width="100%" /> -->
 
 <div align="center">
+  
+<img src="developer_portfolio_banner.png" alt="GitHub Banner" width="100%" />
 
-# 👋 Hey there, I'm Ye Min Aung!
-
-### Junior Full-Stack Developer | Engineering Student at MIIT
-
-*Building modern web applications with a focus on seamless user experiences and robust backend systems.*
-
-<br />
+---
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-yeminaung--dev.vercel.app-000000?style=for-the-badge)](https://yeminaung-dev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in/mryeminaung)
