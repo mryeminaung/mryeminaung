@@ -80,13 +80,13 @@
 </tr>
 
 </table>
-<!-- <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://github-readme-activity-graph.vercel.app/graph?username=mryeminaung&theme=tokyo-night&hide_border=true&radius=15">
   <source media="(prefers-color-scheme: light)"
     srcset="https://github-readme-activity-graph.vercel.app/graph?username=mryeminaung&theme=github-light&hide_border=true&radius=15">
   <img width="95%">
-</picture> -->
+</picture>
 
 
 ### Just for Fun
